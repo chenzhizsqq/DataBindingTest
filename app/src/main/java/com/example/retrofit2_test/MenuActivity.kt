@@ -16,13 +16,13 @@ class MenuActivity : AppCompatActivity(), View.OnClickListener {
 
         supportActionBar?.setDisplayHomeAsUpEnabled(false)
 
-        binding.numberTest.setOnClickListener(this)
+        binding.retrofit2Mvvm.setOnClickListener(this)
 
     }
 
     override fun onClick(v: View?) {
         when (v?.id) {
-            R.id.number_test -> {
+            R.id.retrofit2_mvvm -> {
                 val intent =
                     Intent(this@MenuActivity, MainActivity::class.java)
                 startActivity(intent)
