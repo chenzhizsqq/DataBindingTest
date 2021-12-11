@@ -1,4 +1,4 @@
-package com.example.databindingtest
+package com.example.retrofit2_test
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4

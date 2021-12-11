@@ -1,4 +1,4 @@
-package com.example.databindingtest
+package com.example.retrofit2_test
 
 import androidx.lifecycle.ViewModel
 import androidx.lifecycle.ViewModelProvider

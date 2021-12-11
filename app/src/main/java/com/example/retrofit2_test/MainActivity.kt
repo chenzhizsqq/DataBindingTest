@@ -1,9 +1,9 @@
-package com.example.databindingtest
+package com.example.retrofit2_test
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import androidx.databinding.DataBindingUtil
-import com.example.databindingtest.databinding.ActivityMainBinding
+import com.example.retrofit2_test.databinding.ActivityMainBinding
 
 
 class MainActivity : AppCompatActivity() {

@@ -1,4 +1,4 @@
-package com.example.databindingtest
+package com.example.retrofit2_test
 
 import org.junit.Test
 

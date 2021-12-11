@@ -1,9 +1,9 @@
-package com.example.databindingtest
+package com.example.retrofit2_test
 
 import android.view.LayoutInflater
 import android.view.ViewGroup
 import androidx.recyclerview.widget.RecyclerView
-import com.example.databindingtest.databinding.AdapterMovieBinding
+import com.example.retrofit2_test.databinding.AdapterMovieBinding
 import com.bumptech.glide.Glide
 
 class MovieAdapter : RecyclerView.Adapter<MainViewHolder>() {

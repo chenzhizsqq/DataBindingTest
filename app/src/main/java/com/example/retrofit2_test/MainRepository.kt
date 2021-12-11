@@ -1,4 +1,4 @@
-package com.example.databindingtest
+package com.example.retrofit2_test
 
 class MainRepository constructor(private val retrofitService: RetrofitService) {
 

@@ -1,4 +1,4 @@
-package com.example.databindingtest
+package com.example.retrofit2_test
 
 import android.view.View
 import android.os.Bundle
@@ -6,7 +6,7 @@ import android.widget.Toast
 import androidx.databinding.DataBindingUtil
 import androidx.fragment.app.Fragment
 import androidx.lifecycle.ViewModelProvider
-import com.example.databindingtest.databinding.FragmentMainBinding
+import com.example.retrofit2_test.databinding.FragmentMainBinding
 
 class MainFragment : Fragment(R.layout.fragment_main) {
 

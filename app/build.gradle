@@ -9,7 +9,7 @@ android {
     compileSdk 31
 
     defaultConfig {
-        applicationId "com.example.databindingtest"
+        applicationId "com.example.retrofit2_mvvm"
         minSdk 26
         targetSdk 31
         versionCode 1
