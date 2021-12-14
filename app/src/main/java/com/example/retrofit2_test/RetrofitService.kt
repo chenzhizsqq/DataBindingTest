@@ -30,7 +30,7 @@ interface RetrofitService {
             if (retrofitService == null) {
                 val retrofit = Retrofit.Builder()
                     .baseUrl("https://howtodoandroid.com/")      //从哪个地址获取的
-                    .addConverterFactory(GsonConverterFactory.create()) //Gson转换器
+                    .addConverterFactory(GsonConverterFactory.create()) //把json转为gson
                     .build()
                 retrofitService = retrofit.create(RetrofitService::class.java)  //创建后，返回给静态对象中
             }
